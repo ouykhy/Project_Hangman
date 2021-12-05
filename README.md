@@ -27,6 +27,5 @@ We used JIRA for project planning and for flowchart drawing.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[JIRA PROJECT] https://ironhack.atlassian.net/jira/software/projects/DAP2/boards/2/roadmap
+

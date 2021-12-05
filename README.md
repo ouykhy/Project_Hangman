@@ -28,4 +28,4 @@ We used JIRA for project planning and for flowchart drawing.
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [JIRA PROJECT] https://ironhack.atlassian.net/jira/software/projects/DAP2/boards/2/roadmap
-
+https://github.com/ouykhy/Project_Hangman/blob/ee29c709d3754e72394f2e2cabbb0284ed448190/Hangman%20Project%20Final.ipynb
